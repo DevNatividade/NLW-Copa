@@ -84,3 +84,11 @@ Introdução
     - [ ]  Criando link para o público acessar
     - [ ]  Fazendo alterações (add readme)
 - Readme
+    - [ ]  Navegação
+    - [ ]  Imagem
+    - [ ]  Introdução
+    - [ ]  Link externo ao projeto
+    - [ ]  Tecnologias
+    - [ ]  Aprendizado
+    - [ ]  Autoria
+    - [ ]  Referências
